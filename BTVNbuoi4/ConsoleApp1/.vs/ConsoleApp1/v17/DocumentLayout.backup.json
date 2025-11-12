@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HIT_Unity\\BTVN\\BTVNbuoi4\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF15ED7-0E47-45C6-BDAD-9E67804279B2}|ConsoleApp1.csproj|d:\\hit_unity\\btvn\\btvnbuoi4\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF15ED7-0E47-45C6-BDAD-9E67804279B2}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF15ED7-0E47-45C6-BDAD-9E67804279B2}|ConsoleApp1.csproj|d:\\hit_unity\\btvn\\btvnbuoi4\\consoleapp1\\congnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF15ED7-0E47-45C6-BDAD-9E67804279B2}|ConsoleApp1.csproj|solutionrelative:congnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF15ED7-0E47-45C6-BDAD-9E67804279B2}|ConsoleApp1.csproj|d:\\hit_unity\\btvn\\btvnbuoi4\\consoleapp1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF15ED7-0E47-45C6-BDAD-9E67804279B2}|ConsoleApp1.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CONGNHAN.cs",
+              "DocumentMoniker": "D:\\HIT_Unity\\BTVN\\BTVNbuoi4\\ConsoleApp1\\CONGNHAN.cs",
+              "RelativeDocumentMoniker": "CONGNHAN.cs",
+              "ToolTip": "D:\\HIT_Unity\\BTVN\\BTVNbuoi4\\ConsoleApp1\\CONGNHAN.cs*",
+              "RelativeToolTip": "CONGNHAN.cs*",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswD4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:07:59.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\HIT_Unity\\BTVN\\BTVNbuoi4\\ConsoleApp1\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "D:\\HIT_Unity\\BTVN\\BTVNbuoi4\\ConsoleApp1\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:03:03.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HIT_Unity\\BTVN\\BTVNbuoi4\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\HIT_Unity\\BTVN\\BTVNbuoi4\\ConsoleApp1\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAANAAAAAAAAAAAAAAAPQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:01:34.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
